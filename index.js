@@ -1,4 +1,4 @@
-let timer=1;
+let timer=60;
 let score=0;
 let random=0;
 
